@@ -20,3 +20,5 @@ randnum = random.choice(num)
 
 password = randword + randsp_char + randnum
 print(password)
+
+#new comment
